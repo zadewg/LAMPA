@@ -33,6 +33,9 @@ A good representation of what this system does is an old centrigufal "fly-ball" 
 
 &nbsp;
 
+&nbsp;
+
+
 ## The attack
 
 Knowing that load affects frequency, and that there is a system in place to keep the frequency nominal, the next question is what can we do to disturb that system. This is the response of the system when a load of 10% of its capacity is applied:
